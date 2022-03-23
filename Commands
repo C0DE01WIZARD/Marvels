@@ -21,7 +21,7 @@ git remote
 1)git init - добавить, инициализировать GIT, создать новый GIT
 2)git status - чтоб увидеть изменения
 3)git add -A - добавление изменений в git
-4)git commit -m 'initial commit' - отслеживание изменений
+4)git commit -m 'название коммита' - отслеживание изменений
 5)git checkout -b "название ветки" - создание новой ветки
 6)git checkout master - переключение на ветку мастера
 
